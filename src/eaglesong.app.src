@@ -1,0 +1,14 @@
+{application, eaglesong,
+ [{description, "A nif for the Eaglesong hash used in Nervos CKB"},
+  {vsn, "1.0.0"},
+  {registered, []},
+  {applications,
+   [kernel,
+    stdlib
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, ["Eric des Courtis"]},
+  {links, []}
+ ]}.
