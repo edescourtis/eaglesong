@@ -1,5 +1,6 @@
 #include <stdint.h>
 #include <stdio.h>
+#include "eaglesong.h"
 
 uint32_t bit_matrix[] = {1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1,
                          0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1,
