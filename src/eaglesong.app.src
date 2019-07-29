@@ -8,7 +8,7 @@
    ]},
   {env,[]},
   {modules, []},
-
+  {licenses, ["MIT"]},
   {maintainers, ["Eric des Courtis"]},
-  {links, []}
+  {links, [{"Github", "https://github.com/edescourtis/eaglesong"}]}
  ]}.
