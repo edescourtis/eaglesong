@@ -8,12 +8,12 @@ Adding as a dependency
 
 In Elixir (`mix.exs`):
 ```
-{:emqtt, "~> 1.0"}
+{:eaglesong, "~> 1.0"}
 ```
 
 In Erlang (`rebar.config`):
 ```
-{emqtt, "1.0.0"}
+{eaglesong, "1.0.0"}
 ```
 
 
