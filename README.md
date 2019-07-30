@@ -1,7 +1,7 @@
 eaglesong
 =====
 
-Eaglesong is the PoW (proof of work) hash used in Nervos CKB. This library is a simple nif to use it from Erlang and other BEAM languages such as Elixir.
+Eaglesong is the PoW (proof of work) hash used in Nervos CKB. This library is a simple nif you can use from Erlang and other BEAM languages such as Elixir.
 
 Adding as a dependency
 -----
